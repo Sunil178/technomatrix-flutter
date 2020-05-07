@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1030526259873",
+    "firebase_url": "https://technoprojects-514cc.firebaseio.com",
+    "project_id": "technoprojects-514cc",
+    "storage_bucket": "technoprojects-514cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030526259873:android:c567b00aebfcd4d9fe96e0",
+        "android_client_info": {
+          "package_name": "com.example.technomatrix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030526259873-1pp66oa1vh7hmj5v26a2mr9p0qe70p29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSijQhmUbmsDHoy8I6EjsUVkMydhhQOzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030526259873-1pp66oa1vh7hmj5v26a2mr9p0qe70p29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
